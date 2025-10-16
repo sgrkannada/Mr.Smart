@@ -1,4 +1,4 @@
-# Smart Bro: Your AI-Powered Academic Companion
+# Smart Engineer: Your AI-Powered Academic Companion
 
 ## Project Idea
 
